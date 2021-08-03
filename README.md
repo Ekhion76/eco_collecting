@@ -38,4 +38,6 @@ Fejlesztői szkriptek, segédletek a  bővítéshez, új pontok felvételéhez:
 -	eco_anim ( újabb betakarítási animok kereséséhez )
 
 
-![ecocollecting]()
+![ecocollecting](https://github.com/Ekhion76/eco_collecting/blob/main/eco_collecting/preview_images/eco_collecting.jpg)
+![ecocollecting_2](https://github.com/Ekhion76/eco_collecting/blob/main/eco_collecting/preview_images/eco_collecting_2.jpg)
+![ecocollecting_3](https://github.com/Ekhion76/eco_collecting/blob/main/eco_collecting/preview_images/eco_collecting_3.jpg)
