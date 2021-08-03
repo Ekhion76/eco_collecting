@@ -1,6 +1,8 @@
 # eco_collecting
 FIVEM ESX Zöldségek, gyümölcsök, egyéb tárgyak szedését, betakarítását teszi lehetővé. 
 
+:pencil2: Tutya Discord elérhetősége (fejlesztő): HipnotikusAvasSzalonna#3252
+
 ECO COLLECTING
 
 Zöldségek, gyümölcsök, egyéb tárgyak (hulladék, műanyag stb.) szedését, betakarítását teszi lehetővé. A gazdaság és a craft rendszer mozgató rugója a mi szerverünkön.
