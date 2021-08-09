@@ -97,7 +97,7 @@ Citizen.CreateThread(function()
 
     local item
     local params
-    local closestIds
+    local closestIds = {}
 
     while true do
 
