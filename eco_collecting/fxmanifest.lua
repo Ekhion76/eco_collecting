@@ -6,6 +6,10 @@ author 'Tutya & Ekhion'
 description 'Economy - Collecting'
 version '0.1 beta'
 
+shared_script {
+    '@es_extended/imports.lua'
+}
+
 client_scripts {
     'config.lua',
     'client.lua'
