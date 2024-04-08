@@ -1,11 +1,6 @@
-ESX = nil
-TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-
 local collected = {}
 
-
 ESX.RegisterServerCallback("eco_collecting:serverSync", function(source, cb)
-
     cb(collected)
 end)
 
